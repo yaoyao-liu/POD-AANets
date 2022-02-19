@@ -1,0 +1,16 @@
+# File types
+*.pyc
+*.npy
+*.tar.gz
+*.out
+
+# Folders
+ckpts
+results
+scripts
+__pycache__
+tmp_scripts
+
+# File
+.DS_Store
+bashrc
