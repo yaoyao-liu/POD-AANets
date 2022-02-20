@@ -6,7 +6,7 @@ We are still cleaning up the code for [PODNet](https://github.com/arthurdouillar
 <br>
 If you need to use it now, here is a preliminary version.
 <br>
-You need to install the same environment as [PODNet](https://github.com/arthurdouillard/incremental_learning.pytorch) to run this code.
+You need to install the same environment and prepare the same datasets as [PODNet](https://github.com/arthurdouillard/incremental_learning.pytorch) to run this code.
 
 You may run the experiments on ImageNet-Subset using the following command:
 ```bash
