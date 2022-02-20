@@ -12,7 +12,9 @@ You may see a list of the requirements [here](https://github.com/yaoyao-liu/POD-
 ### Preparing datasets
 
 Our code uses exactly the same dataset splits as [PODNet](https://github.com/arthurdouillard/incremental_learning.pytorch).
-You need to put the data of [ILSVRC2012] under this folder: <https://github.com/yaoyao-liu/POD-AANets/tree/main/data/imagenet>
+
+You need to put the data of [ILSVRC2012](https://www.image-net.org/) under this folder: <https://github.com/yaoyao-liu/POD-AANets/tree/main/data/imagenet>
+
 The folders for the training and validation data should be named as `train` and `val`, respectively.
 
 ### Running experiments
