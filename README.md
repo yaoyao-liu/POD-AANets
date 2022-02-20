@@ -3,7 +3,6 @@
 See the original GitHub repository here: <https://git.io/JYHyt>
 
 We are still cleaning up the code for [PODNet](https://github.com/arthurdouillard/incremental_learning.pytorch) w/ AANets. 
-<br>
 If you need to use it now, here is a preliminary version.
 <br>
 You need to install the same environment and prepare the same datasets as [PODNet](https://github.com/arthurdouillard/incremental_learning.pytorch) to run this code.
