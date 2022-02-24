@@ -1,8 +1,8 @@
 ## POD-AANets
 
-\[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Adaptive_Aggregation_Networks_for_Class-Incremental_Learning_CVPR_2021_paper.pdf)\] \[[Original GitHub Repository](https://git.io/JYHyt)\] 
+\[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Adaptive_Aggregation_Networks_for_Class-Incremental_Learning_CVPR_2021_paper.pdf)\] \[[Original GitHub Repository for AANets](https://git.io/JYHyt)\] 
 
-See the original GitHub repository here: <https://git.io/JYHyt>
+See the original GitHub repository for AANet here: <https://git.io/JYHyt>
 
 We are still cleaning up the code for [PODNet](https://github.com/arthurdouillard/incremental_learning.pytorch) w/ AANets. 
 If you need to use it now, here is a preliminary version.
