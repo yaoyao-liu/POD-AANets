@@ -61,7 +61,7 @@ def run_exp(dataset='cifar100', phase=5, tfs=False, weight_pod_loss=1.0, weight_
 
     if machine == 'volta':
         the_time = str(the_time_lib.time())
-        the_command += ' 2>&1 | tee ' + 'log_rmm_' + dataset + '_' + str(phase) + 'phase' + the_time
+        the_command += ' 2>&1 | tee ' + 'log_' + dataset + '_' + str(phase) + 'phase' + the_time
         os.system(the_command)
     else:
        raise ValueError('Please set correct workstation.')
