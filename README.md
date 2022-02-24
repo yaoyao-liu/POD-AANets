@@ -27,11 +27,12 @@ python run_exp.py
 
 ### Results on ImageNet-Subset (5-phase)
 
+You may see the log file [here](https://raw.githubusercontent.com/yaoyao-liu/POD-AANets/main/logs/imagenet_sub_5phase).
 |       | Avg.  | Phase 0  | Phase 1 | Phase 2 | Phase 3  | Phase 4 | Phase 5 |
 | -------------- | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 | `PODNet`            | 75.9 | 86.4 | 80.6 | 76.3 | 74.7 | 69.8 | 67.6 |
 | `POD-AANets (paper)`  | 77.0 | 86.1 | 81.5 | 77.7 | 75.5 | 71.6 | 69.4 |
-| `POD-AANets (this repository)`  | 77.3 | 87.0 | 82.2 | 78.5 | 75.5 | 71.6 | 69.0 |
+| `POD-AANets (this repo)`  | 77.3 | 87.0 | 82.2 | 78.5 | 75.5 | 71.6 | 69.0 |
 
 ### Reporting Issues
 If you have any questions, please create an issue in [the original repository](https://git.io/JYHyt). Thanks!
